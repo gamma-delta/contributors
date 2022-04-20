@@ -185,6 +185,15 @@
 "paucal:patSound" = "entity.cat.purr"
 "paucal:patPitchCenter" = 1.4
 
+# najlitarvan (logo maker)
+["799e6817-c2e2-4bf5-816a-6415c4d6b8a1"]
+"paucal:contributorLevel" = 0
+"paucal:isDev" = false
+"paucal:isCool" = true
+
+# 0x2e2d47 0xe87c0d
+"hexcasting:colorizer" = [3026247, 15236109]
+
 # Todo:
 # SleepyEmber
 
