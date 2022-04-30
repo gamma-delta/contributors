@@ -94,16 +94,17 @@
 "paucal:isDev" = false
 "paucal:isCool" = false
 
-# chose no headpat sound
-
+# technically they shouldn't have a colorizer but i'll give it to them for running the server
 # fd8fe8
 "hexcasting:colorizer" = [16617448]
 
 # techtime4/Ceql
-# ["43b4ed05-42a8-420b-8e9c-5e374267e9e9"]
-# "paucal:contributorLevel" = 1
-# "paucal:isDev" = false
-# "paucal:isCool" = false
+["43b4ed05-42a8-420b-8e9c-5e374267e9e9"]
+"paucal:contributorLevel" = 1
+"paucal:isDev" = false
+"paucal:isCool" = false
+
+# TODO: colorizer
 
 # WildOats (stevebutnottoomanypeoplehaveit)
 ["968e572c-a6c1-4963-8399-0c64abd3820e"]
@@ -118,6 +119,15 @@
 "paucal:contributorLevel" = 1
 "paucal:isDev" = false
 "paucal:isCool" = false
+
+# KirinDave
+["99a814a0-bff4-4526-bee6-4af5c74a6824"]
+"paucal:contributorLevel" = 2
+"paucal:isDev" = false
+"paucal:isCool" = false
+
+# 000872 651e5f 902d40 a83c22 ba5f1a df9000
+"hexcasting:colorizer" = [2162, 6626911, 9448768, 11025442, 12214042, 14651392]
 
 # == Cool People ==
 
