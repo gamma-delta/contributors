@@ -210,8 +210,17 @@
 "paucal:isDev" = false
 "paucal:isCool" = true
 
-# i THINK that this should work now that paucal relies on a newer nightconfig?
-"hexcasting:colorizer" = [0x078D70, 0x26CEAA, 0x99E8C2, 0xFFFFFF, 0x7BADE3, 0x5049CB, 0x3E1A78, 0x800080, 0xFFFFFF, 0xA3A3A3, 0x000000]
+# [0x078D70, 0x26CEAA, 0x99E8C2, 0xFFFFFF, 0x7BADE3, 0x5049CB, 0x3E1A78, 0x800080, 0xFFFFFF, 0xA3A3A3, 0x000000]
+"hexcasting:colorizer" = [494960, 2543274, 10086594, 16777215, 8105443, 5261771, 4070008, 8388736, 16777215, 10724259, 0]
+
+# CesiumHorizon (other quiner)
+["092edbda-bb80-4c39-89d6-120c2e478eee"]
+"paucal:contributorLevel" = 0
+"paucal:isDev" = false
+"paucal:isCool" = true
+
+# [0xe64539, 0xff8933, 0xf0b541, 0x92e8c0, 0x9c2a70, 0x4b1d52]
+"hexcasting:colorizer" = [15091001, 16746803, 15775041, 9627840, 10234480, 4922706]
 
 # Todo:
 # SleepyEmber
