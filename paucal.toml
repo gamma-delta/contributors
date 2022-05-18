@@ -204,6 +204,15 @@
 # 0x2e2d47 0xe87c0d
 "hexcasting:colorizer" = [3026247, 15236109]
 
+# abean077 (quiner)
+["b1a9e0e5-6252-41a7-aeab-b5b7135c0a4b"]
+"paucal:contributorLevel" = 0
+"paucal:isDev" = false
+"paucal:isCool" = true
+
+# i THINK that this should work now that paucal relies on a newer nightconfig?
+"hexcasting:colorizer" = [0x078D70, 0x26CEAA, 0x99E8C2, 0xFFFFFF, 0x7BADE3, 0x5049CB, 0x3E1A78, 0x800080, 0xFFFFFF, 0xA3A3A3, 0x000000]
+
 # Todo:
 # SleepyEmber
 
