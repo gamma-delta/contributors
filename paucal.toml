@@ -11,8 +11,7 @@
 "paucal:isDev" = true
 "paucal:isCool" = true
 
-"paucal:patSound" = "block.note_block.bit"
-"paucal:patPitchCenter" = 1.5
+"paucal:patSound" = "paucal:pet.device"
 
 # colorizer = [0xebad1c, 0xc7c7bd, 0x7c2e94, 0x2e060f]
 "hexcasting:colorizer" = [15445276, 13092797, 8138388, 3016207]
@@ -50,8 +49,7 @@
 "paucal:isDev" = true
 "paucal:isCool" = true
 
-"paucal:patSound" = "entity.cat.purr"
-"paucal:patPitchCenter" = 1.4
+"paucal:patSound" = "paucal:pet.neko"
 
 # Dev (the forge dummy player)
 ["380df991-f603-344c-a090-369bad2a924a"]
@@ -71,8 +69,7 @@
 "paucal:isDev" = false
 "paucal:isCool" = false
 
-"paucal:patSound" = "block.note_block.bit"
-"paucal:patPitchCenter" = 1.5
+"paucal:patSound" = "paucal:pet.device"
 
 # just trans colors for now till she decides
 "hexcasting:colorizer" = [15438570, 16777215, 6996708]
@@ -83,7 +80,7 @@
 "paucal:isDev" = false
 "paucal:isCool" = false
 
-"paucal:patSound" = "paucal:splat"
+"paucal:patSound" = "paucal:pet.splat"
 
 # 4c345c
 "hexcasting:colorizer" = [4994140]
@@ -137,8 +134,7 @@
 "paucal:isDev" = false
 "paucal:isCool" = true
 
-"paucal:patSound" = "entity.cat.purr"
-"paucal:patPitchCenter" = 1.4
+"paucal:patSound" = "paucal:pet.neko"
 
 "hexcasting:colorizer" = [25, 13948159, 20]
 
@@ -172,7 +168,7 @@
 "paucal:isDev" = false
 "paucal:isCool" = true
 
-"paucal:patSound" = "entity.slime.jump_small"
+"paucal:patSound" = "paucal:pet.slime"
 
 # yrsegal
 ["458391f5-6303-4649-b416-e4c0d18f837a"]
@@ -180,8 +176,7 @@
 "paucal:isDev" = false
 "paucal:isCool" = true
 
-"paucal:patSound" = "entity.villager.ambient"
-"paucal:patPitchCenter" = 1.5
+"paucal:patSound" = "paucal:pet.wire"
 
 # 0x388349
 "hexcasting:colorizer" = [3703625]
@@ -192,8 +187,7 @@
 "paucal:isDev" = false
 "paucal:isCool" = true
 
-"paucal:patSound" = "entity.cat.purr"
-"paucal:patPitchCenter" = 1.4
+"paucal:patSound" = "paucal:pet.neko"
 
 # najlitarvan (logo maker)
 ["799e6817-c2e2-4bf5-816a-6415c4d6b8a1"]
