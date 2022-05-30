@@ -12,10 +12,10 @@
 "paucal:isCool" = true
 
 "paucal:patSound" = "paucal:pet.device"
+"paucal:patPitchVariance" = 0.1
 
 # colorizer = [0xebad1c, 0xc7c7bd, 0x7c2e94, 0x2e060f]
 "hexcasting:colorizer" = [15445276, 13092797, 8138388, 3016207]
-
 
 # == Devs ==
 
@@ -132,8 +132,8 @@
 "paucal:isDev" = false
 "paucal:isCool" = false
 
-"paucal:patSound" = "minecraft:block.note_block.hat"
-# todo: fix that once 0.4.6 drops
+"paucal:patSound" = "paucal:pet.tick"
+"paucal:patPitchVariance" = 0.1
 # hasn't decided colorizer yet
 
 
