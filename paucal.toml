@@ -60,7 +60,7 @@
 # For testing purposes
 # 0xff0000 0x00ff00 0x0000ff
 "hexcasting:colorizer" = [16711680, 65280, 255]
-"paucal:patSound" = "paucal:pet.tick"
+"paucal:patSound" = "paucal:pet.device"
 "paucal:patPitchVariance" = 0.1
 
 
