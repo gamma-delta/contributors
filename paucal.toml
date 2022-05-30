@@ -126,6 +126,17 @@
 # 000872 651e5f 902d40 a83c22 ba5f1a df9000
 "hexcasting:colorizer" = [2162, 6626911, 9448768, 11025442, 12214042, 14651392]
 
+# Dxier
+["eda175aa-7bb0-4ff5-b787-c5466baa1237"]
+"paucal:contributorLevel" = 3
+"paucal:isDev" = false
+"paucal:isCool" = false
+
+"paucal:patSound" = "minecraft:block.note_block.hat"
+# todo: fix that once 0.4.6 drops
+# hasn't decided colorizer yet
+
+
 # == Cool People ==
 
 # MacyMacerator
