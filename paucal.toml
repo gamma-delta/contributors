@@ -56,9 +56,12 @@
 "paucal:contributorLevel" = 4 # for testing purposes
 "paucal:isDev" = true
 "paucal:isCool" = false
-# 0xff0000 0x00ff00 0x0000ff
+
 # For testing purposes
+# 0xff0000 0x00ff00 0x0000ff
 "hexcasting:colorizer" = [16711680, 65280, 255]
+"paucal:patSound" = "paucal:pet.tick"
+"paucal:patPitchVariance" = 0.1
 
 
 # == People who Pay Me Money In Real Life, For Some Reason ==
