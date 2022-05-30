@@ -139,6 +139,14 @@
 "paucal:patPitchVariance" = 0.1
 # hasn't decided colorizer yet
 
+# Hudeler
+["23978392-a78c-49cf-9f52-35a151fd4083"]
+"paucal:contributorLevel" = 3
+"paucal:isDev" = false
+"paucal:isCool" = true
+#colorizer = [0x825ec2]
+"hexcasting:colorizer" = [8543938]
+
 
 # == Cool People ==
 
@@ -151,14 +159,6 @@
 "paucal:patSound" = "paucal:pet.neko"
 
 "hexcasting:colorizer" = [25, 13948159, 20]
-
-# Hudeler
-["23978392-a78c-49cf-9f52-35a151fd4083"]
-"paucal:contributorLevel" = 0
-"paucal:isDev" = false
-"paucal:isCool" = true
-#colorizer = [0x825ec2]
-"hexcasting:colorizer" = [8543938]
 
 # nbyzantine
 ["e055cae1-dd93-42b7-abad-8f2dc758a9f2"]
