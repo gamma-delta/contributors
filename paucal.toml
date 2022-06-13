@@ -176,6 +176,8 @@
 #colorizer = [0x92a1ff, 0x6b7fff]
 "hexcasting:colorizer" = [6548735, 16752895]
 
+"paucal:patSound" = "paucal:pet.ultrainstinct"
+
 # DaniCherryJam
 ["d475af59-d73c-42be-90ed-f1a78f10d452"]
 "paucal:contributorLevel" = 0
@@ -183,6 +185,7 @@
 "paucal:isCool" = true
 
 "paucal:patSound" = "paucal:pet.slime"
+"paucal:patPitchVariance" = 0
 
 # yrsegal
 ["458391f5-6303-4649-b416-e4c0d18f837a"]
@@ -236,7 +239,8 @@
 "paucal:isDev" = false
 "paucal:isCool" = true
 
-"paucal:patSound" = "paucal:pet.device"
+"paucal:patSound" = "paucal:pet.bwop"
+"paucal:patPitchVariance" = 0.1
 
 # Todo:
 # SleepyEmber
