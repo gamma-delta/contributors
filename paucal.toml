@@ -129,6 +129,13 @@
 # 000872 651e5f 902d40 a83c22 ba5f1a df9000
 "hexcasting:colorizer" = [2162, 6626911, 9448768, 11025442, 12214042, 14651392]
 
+# Kurotsune
+["661ca73d-cfe5-488c-a3e9-b9714c06660f"]
+"paucal:contributorLevel" = 2
+"paucal:isDev" = false
+"paucal:isCool" = false
+"hexcasting:colorizer" = [0xAA0000, 0x0, 0x0050ff, 0x0]
+
 # Dxier
 ["eda175aa-7bb0-4ff5-b787-c5466baa1237"]
 "paucal:contributorLevel" = 3
