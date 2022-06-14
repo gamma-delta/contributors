@@ -151,8 +151,20 @@
 "paucal:contributorLevel" = 3
 "paucal:isDev" = false
 "paucal:isCool" = true
-#colorizer = [0x825ec2]
-"hexcasting:colorizer" = [8543938]
+"hexcasting:colorizer" = [3544165, 4461376, 9437240]
+
+"paucal:patSound" = "minecraft:entity.enderman.ambient"
+"paucal:patPitchCenter" = 0.8
+"paucal:patPitchVariance" = 0.1
+
+# Hudelery
+["7f21f2c5-4ee8-45a8-9e11-714b3af373b3"]
+"paucal:contributorLevel" = 3
+"paucal:isDev" = false
+"paucal:isCool" = true
+"hexcasting:colorizer" = [3544165, 4461376, 9437240]
+
+"paucal:patSound" = "paucal:pet.neko"
 
 
 # == Cool People ==
