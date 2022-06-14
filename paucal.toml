@@ -49,7 +49,9 @@
 "paucal:isDev" = true
 "paucal:isCool" = true
 
-"paucal:patSound" = "paucal:pet.neko"
+"paucal:patSound" = "minecraft:entity.wolf.pant"
+
+"hexcasting:colorizer" = [0xa11420, 0x291d2b]
 
 # Dev (the forge dummy player)
 ["380df991-f603-344c-a090-369bad2a924a"]
