@@ -168,6 +168,13 @@
 
 "paucal:patSound" = "paucal:pet.neko"
 
+# foulfortunfeline 
+["f33801ef-0891-4b2d-951b-8b9503e24816"]
+"paucal:contributorLevel" = 3
+"paucal:isDev" = false
+"paucal:isCool" = false
+"paucal:patSound" = "paucal:pet.neko"
+"hexcasting:colorizer" = [0xFF39F1, 0x8B00DB, 0xFF38C7, 0x650072]
 
 # == Cool People ==
 
