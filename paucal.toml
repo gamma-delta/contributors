@@ -176,6 +176,13 @@
 "paucal:patSound" = "paucal:pet.neko"
 "hexcasting:colorizer" = [0xFF39F1, 0x8B00DB, 0xFF38C7, 0x650072]
 
+# AnkhLord
+["caabdb4f-9772-476a-8545-c1118c71ffb1"]
+"paucal:contributorLevel" = 2
+"paucal:isDev" = false
+"paucal:isCool" = false
+"hexcasting:colorizer" = [0x00c3ff, 0x0044ff, 0x3b00ff, 0x0]
+
 # == Cool People ==
 
 # MacyMacerator
