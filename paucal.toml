@@ -183,6 +183,13 @@
 "paucal:isCool" = false
 "hexcasting:colorizer" = [0x00c3ff, 0x0044ff, 0x3b00ff, 0x0]
 
+# object_Object
+["cd274e7b-ae7f-4aa3-a8da-b3ba5b896c8b"]
+"paucal:contributorLevel" = 2
+"paucal:isDev" = false
+"paucal:isCool" = false
+"hexcasting:colorizer" = [0xffffff, 0x0080ff]
+
 # == Cool People ==
 
 # MacyMacerator
