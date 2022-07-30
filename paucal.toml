@@ -190,6 +190,14 @@
 "paucal:isCool" = false
 "hexcasting:colorizer" = [0xffffff, 0x0080ff]
 
+# gchpacho
+["a1c40d68-8734-4e16-9716-69c63bea6f15"]
+"paucal:contributorLevel" = 2
+"paucal:isDev" = false
+"paucal:isCool" = false
+"hexcasting:colorizer" = [0x314267]
+
+
 # == Cool People ==
 
 # MacyMacerator
