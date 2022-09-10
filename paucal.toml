@@ -204,6 +204,13 @@
 "paucal:isCool" = false
 "hexcasting:colorizer" = [0x6495D9, 0x99DAD2, 0x5850A2]
 
+# PhantomEnderium
+["5ed4a488-71ee-471b-bb19-68e738ddffc8"]
+"paucal:contributorLevel" = 2
+"paucal:isDev" = false
+"paucal:isCool" = false
+"hexcasting:colorizer" = [0x850808, 0x096fb3, 0x57047d]
+
 # == Cool People ==
 
 # MacyMacerator
