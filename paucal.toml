@@ -259,8 +259,7 @@
 
 "paucal:patSound" = "paucal:pet.wire"
 
-# 0x388349
-"hexcasting:colorizer" = [3703625]
+"hexcasting:colorizer" = [0x37826d, 0x388348, 0x23825c, 0x388349]
 
 # SammySemicolon
 ["0ca54301-6170-4c44-b3e0-b8afa6b81ed2"]
