@@ -305,8 +305,14 @@
 "paucal:patSound" = "paucal:pet.bwop"
 "paucal:patPitchVariance" = 0.1
 
-# Todo:
 # SleepyEmber
+["9380b46b-8de4-4a54-b454-88f33059c9ab"]
+"paucal:contributorLevel" = 0
+"paucal:isDev" = false
+"paucal:isCool" = true
+
+"paucal:patSound" = "paucal:pet.neko"
+"paucal:patPitchCenter" = 0.9
 
 
 # == Hexcasting Quote Contest Winners ==
