@@ -211,6 +211,29 @@
 "paucal:isCool" = false
 "hexcasting:colorizer" = [0x850808, 0x096fb3, 0x57047d]
 
+# Talia0
+["a4e152c9-3d75-4b1a-9d90-f1c1e2280a05"]
+"paucal:contributorLevel" = 1
+"paucal:isDev" = false
+"paucal:isCool" = false
+
+# Jotuc
+["efb446dd-8f74-4268-8d35-9dd07f8e25d7"]
+"paucal:contributorLevel" = 3
+"paucal:isDev" = false
+"paucal:isCool" = false
+
+# TODO: structural damage (in 0.20)
+"paucal:patSound" = "paucal:pet.device"
+
+# ValeriousMystery
+["84379358-c7a9-4e76-af7e-1b969fee9aef"]
+"paucal:contributorLevel" = 3
+"paucal:isDev" = false
+"paucal:isCool" = false
+
+"hexcasting:colorizer" = [0x06ffc9, 0x3da35a, 0x3b7e4f, 0x1d572e, 0xc0ffee]
+
 # == Cool People ==
 
 # MacyMacerator
