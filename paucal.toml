@@ -234,6 +234,13 @@
 
 "hexcasting:colorizer" = [0x06ffc9, 0x3da35a, 0x3b7e4f, 0x1d572e, 0xc0ffee]
 
+# Rolahr
+["e857d388-f08d-43f0-b58b-c5c56146ced6"]
+"paucal:contributorLevel" = 2
+"paucal:isDev" = false
+"paucal:isCool" = false
+"hexcasting:colorizer" = [0x9D769B, 0x14D01C]
+
 # == Cool People ==
 
 # MacyMacerator
