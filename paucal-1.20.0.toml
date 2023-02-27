@@ -1,0 +1,372 @@
+# === paucal.toml ===
+# For all of my Minecraft mods.
+# This is loaded by my library mod PAUCAL on game startup.
+
+# https://gameplay.tools/minecraft/uuid
+# sadly has people's deadnames on it :(
+
+# petra_the_kat
+["a2ce9382-2518-4752-87b2-c6a5c97f173e"]
+"paucal:contributorLevel" = 7604
+"paucal:isDev" = true
+"paucal:isCool" = true
+
+"paucal:patSound" = "paucal:pet.device"
+"paucal:patPitchVariance" = 0.1
+
+# colorizer = [0xebad1c, 0xc7c7bd, 0x7c2e94, 0x2e060f]
+"hexcasting:colorizer" = [15445276, 13092797, 8138388, 3016207]
+
+# == Devs ==
+
+# AmyMialee
+["2793cdc6-7710-4e7e-9d81-cf918e067729"]
+"paucal:contributorLevel" = 0
+"paucal:isDev" = true
+"paucal:isCool" = true
+#colorizer = [0xb992ff]
+"hexcasting:colorizer" = [12161791]
+
+# Alwinfy
+["64f6e5fc-981c-442c-8d6a-578e8e8cbcd3"]
+"paucal:contributorLevel" = 0
+"paucal:isDev" = true
+"paucal:isCool" = true
+#colorizer = [0x3327e3]
+"hexcasting:colorizer" = [3352547]
+
+# Hubry
+["b0a26f6b-d951-4b65-b824-b164b9bc4b90"]
+"paucal:contributorLevel" = 0
+"paucal:isDev" = true
+"paucal:isCool" = true
+# 0x10e810, 0xe97dff, 0x33ffff
+"hexcasting:colorizer" = [1107984, 15302143, 3407871]
+
+# Falkory220
+["d30d8e38-6f93-4d96-968d-dd6ec5596941"]
+"paucal:contributorLevel" = 0
+"paucal:isDev" = true
+"paucal:isCool" = true
+
+"paucal:patSound" = "minecraft:entity.wolf.pant"
+
+"hexcasting:colorizer" = [0xa11420, 0x291d2b]
+
+# Dev (the forge dummy player)
+["380df991-f603-344c-a090-369bad2a924a"]
+"paucal:contributorLevel" = 4 # for testing purposes
+"paucal:isDev" = true
+"paucal:isCool" = false
+
+# For testing purposes
+# 0xff0000 0x00ff00 0x0000ff
+"hexcasting:colorizer" = [16711680, 65280, 255]
+"paucal:patSound" = "paucal:pet.tick"
+"paucal:patPitchVariance" = 0.1
+
+
+# == People who Pay Me Money In Real Life, For Some Reason ==
+
+# artemisSystem
+["e96fa4b4-ece6-4a00-b144-1946ba9e31ec"]
+"paucal:contributorLevel" = 3
+"paucal:isDev" = false
+"paucal:isCool" = false
+
+"paucal:patSound" = "paucal:pet.device"
+
+# just trans colors for now till she decides
+"hexcasting:colorizer" = [15438570, 16777215, 6996708]
+
+# TaterBlight
+["83d0744b-6769-4cb9-9b27-d4dea603dd28"]
+"paucal:contributorLevel" = 4
+"paucal:isDev" = false
+"paucal:isCool" = false
+
+"paucal:patSound" = "paucal:pet.splat"
+
+# 4c345c
+"hexcasting:colorizer" = [4994140]
+
+# SpottyTheTurtle
+["c5e9fe6f-93aa-4b64-83b7-5a617e359757"]
+"paucal:contributorLevel" = 4
+"paucal:isDev" = false
+"paucal:isCool" = false
+
+# technically they shouldn't have a colorizer but i'll give it to them for running the server
+# fd8fe8
+"hexcasting:colorizer" = [16617448]
+
+# techtime4/Ceql
+["43b4ed05-42a8-420b-8e9c-5e374267e9e9"]
+"paucal:contributorLevel" = 1
+"paucal:isDev" = false
+"paucal:isCool" = false
+
+# TODO: colorizer
+
+# WildOats (stevebutnottoomanypeoplehaveit)
+["968e572c-a6c1-4963-8399-0c64abd3820e"]
+"paucal:contributorLevel" = 2
+"paucal:isDev" = false
+"paucal:isCool" = false
+# 5f118a 411db8
+"hexcasting:colorizer" = [6230410, 4267448]
+
+# 4984
+["2b8e38f6-448c-4e23-876e-ed65336d6388"]
+"paucal:contributorLevel" = 1
+"paucal:isDev" = false
+"paucal:isCool" = false
+
+# KirinDave
+["99a814a0-bff4-4526-bee6-4af5c74a6824"]
+"paucal:contributorLevel" = 2
+"paucal:isDev" = false
+"paucal:isCool" = false
+
+# 000872 651e5f 902d40 a83c22 ba5f1a df9000
+"hexcasting:colorizer" = [2162, 6626911, 9448768, 11025442, 12214042, 14651392]
+
+# Kurotsune
+["661ca73d-cfe5-488c-a3e9-b9714c06660f"]
+"paucal:contributorLevel" = 2
+"paucal:isDev" = false
+"paucal:isCool" = false
+"hexcasting:colorizer" = [0xAA0000, 0x0, 0x0050ff, 0x0]
+
+# Dxier
+["eda175aa-7bb0-4ff5-b787-c5466baa1237"]
+"paucal:contributorLevel" = 3
+"paucal:isDev" = false
+"paucal:isCool" = false
+
+"paucal:patSound" = "paucal:pet.tick"
+"paucal:patPitchVariance" = 0.1
+# hasn't decided colorizer yet
+
+# Hudeler
+["23978392-a78c-49cf-9f52-35a151fd4083"]
+"paucal:contributorLevel" = 3
+"paucal:isDev" = false
+"paucal:isCool" = true
+"hexcasting:colorizer" = [3544165, 4461376, 9437240]
+
+"paucal:patSound" = "minecraft:entity.enderman.ambient"
+"paucal:patPitchCenter" = 0.8
+"paucal:patPitchVariance" = 0.1
+
+# Hudelery
+["7f21f2c5-4ee8-45a8-9e11-714b3af373b3"]
+"paucal:contributorLevel" = 3
+"paucal:isDev" = false
+"paucal:isCool" = true
+"hexcasting:colorizer" = [3544165, 4461376, 9437240]
+
+"paucal:patSound" = "paucal:pet.neko"
+
+# foulfortunfeline 
+["f33801ef-0891-4b2d-951b-8b9503e24816"]
+"paucal:contributorLevel" = 3
+"paucal:isDev" = false
+"paucal:isCool" = false
+"paucal:patSound" = "paucal:pet.neko"
+"hexcasting:colorizer" = [0xFF39F1, 0x8B00DB, 0xFF38C7, 0x650072]
+
+# AnkhLord
+["caabdb4f-9772-476a-8545-c1118c71ffb1"]
+"paucal:contributorLevel" = 2
+"paucal:isDev" = false
+"paucal:isCool" = false
+"hexcasting:colorizer" = [0x00c3ff, 0x0044ff, 0x3b00ff, 0x0]
+
+# object_Object
+["cd274e7b-ae7f-4aa3-a8da-b3ba5b896c8b"]
+"paucal:contributorLevel" = 2
+"paucal:isDev" = false
+"paucal:isCool" = false
+"hexcasting:colorizer" = [0xffffff, 0x0080ff]
+
+# gchpacho
+["a1c40d68-8734-4e16-9716-69c63bea6f15"]
+"paucal:contributorLevel" = 2
+"paucal:isDev" = false
+"paucal:isCool" = false
+"hexcasting:colorizer" = [0x314267]
+
+# Kinomoru
+["eec9c96b-d30b-4e1f-b38b-a9985c2c9118"]
+"paucal:contributorLevel" = 2
+"paucal:isDev" = false
+"paucal:isCool" = false
+"hexcasting:colorizer" = [0x6495D9, 0x99DAD2, 0x5850A2]
+
+# PhantomEnderium
+["5ed4a488-71ee-471b-bb19-68e738ddffc8"]
+"paucal:contributorLevel" = 2
+"paucal:isDev" = false
+"paucal:isCool" = false
+"hexcasting:colorizer" = [0x850808, 0x096fb3, 0x57047d]
+
+# Talia0
+["a4e152c9-3d75-4b1a-9d90-f1c1e2280a05"]
+"paucal:contributorLevel" = 1
+"paucal:isDev" = false
+"paucal:isCool" = false
+
+# Jotuc
+["efb446dd-8f74-4268-8d35-9dd07f8e25d7"]
+"paucal:contributorLevel" = 3
+"paucal:isDev" = false
+"paucal:isCool" = false
+
+# TODO: structural damage (in 0.20)
+"paucal:patSound" = "paucal:pet.device"
+
+# ValeriousMystery
+["84379358-c7a9-4e76-af7e-1b969fee9aef"]
+"paucal:contributorLevel" = 3
+"paucal:isDev" = false
+"paucal:isCool" = false
+
+"hexcasting:colorizer" = [0x06ffc9, 0x3da35a, 0x3b7e4f, 0x1d572e, 0xc0ffee]
+
+# Rolahr
+["e857d388-f08d-43f0-b58b-c5c56146ced6"]
+"paucal:contributorLevel" = 2
+"paucal:isDev" = false
+"paucal:isCool" = false
+"hexcasting:colorizer" = [0x9D769B, 0x14D01C]
+
+# == Cool People ==
+
+# MacyMacerator
+["29a10dc6-a201-4993-80d8-c847212bc92b"]
+"paucal:contributorLevel" = 0
+"paucal:isDev" = false
+"paucal:isCool" = true
+
+"paucal:patSound" = "paucal:pet.neko"
+
+"hexcasting:colorizer" = [25, 13948159, 20]
+
+# nbyzantine
+["e055cae1-dd93-42b7-abad-8f2dc758a9f2"]
+"paucal:contributorLevel" = 0
+"paucal:isDev" = false
+"paucal:isCool" = true
+# dfe0e8 f2da00 e66910 383138
+"hexcasting:colorizer" = [14672104, 15915520, 15100176, 3682616]
+
+# Noobulus
+["89719de3-6445-4445-abe2-509659db930d"]
+"paucal:contributorLevel" = 0
+"paucal:isDev" = false
+"paucal:isCool" = true
+#colorizer = [0x92a1ff, 0x6b7fff]
+"hexcasting:colorizer" = [6548735, 16752895]
+
+"paucal:patSound" = "paucal:pet.ultrainstinct"
+"paucal:patPitchVariance" = 0
+
+# DaniCherryJam
+["d475af59-d73c-42be-90ed-f1a78f10d452"]
+"paucal:contributorLevel" = 0
+"paucal:isDev" = false
+"paucal:isCool" = true
+
+"paucal:patSound" = "paucal:pet.slime"
+"paucal:patPitchVariance" = 0
+
+# yrsegal
+["458391f5-6303-4649-b416-e4c0d18f837a"]
+"paucal:contributorLevel" = 0
+"paucal:isDev" = false
+"paucal:isCool" = true
+
+"paucal:patSound" = "paucal:pet.wire"
+
+"hexcasting:colorizer" = [0x37826d, 0x388348, 0x23825c, 0x388349]
+
+# SammySemicolon
+["0ca54301-6170-4c44-b3e0-b8afa6b81ed2"]
+"paucal:contributorLevel" = 0
+"paucal:isDev" = false
+"paucal:isCool" = true
+
+"paucal:patSound" = "paucal:pet.neko"
+
+# najlitarvan (logo maker)
+["799e6817-c2e2-4bf5-816a-6415c4d6b8a1"]
+"paucal:contributorLevel" = 0
+"paucal:isDev" = false
+"paucal:isCool" = true
+
+# 0x2e2d47 0xe87c0d
+"hexcasting:colorizer" = [3026247, 15236109]
+
+# abean077 (quiner)
+["b1a9e0e5-6252-41a7-aeab-b5b7135c0a4b"]
+"paucal:contributorLevel" = 0
+"paucal:isDev" = false
+"paucal:isCool" = true
+
+# [0x078D70, 0x26CEAA, 0x99E8C2, 0xFFFFFF, 0x7BADE3, 0x5049CB, 0x3E1A78, 0x800080, 0xFFFFFF, 0xA3A3A3, 0x000000]
+"hexcasting:colorizer" = [494960, 2543274, 10086594, 16777215, 8105443, 5261771, 4070008, 8388736, 16777215, 10724259, 0]
+
+# CesiumHorizon (other quiner)
+["092edbda-bb80-4c39-89d6-120c2e478eee"]
+"paucal:contributorLevel" = 0
+"paucal:isDev" = false
+"paucal:isCool" = true
+
+# [0xe64539, 0xff8933, 0xf0b541, 0x92e8c0, 0x9c2a70, 0x4b1d52]
+"hexcasting:colorizer" = [15091001, 16746803, 15775041, 9627840, 10234480, 4922706]
+
+# LemmaEOF
+["3f5150ea-fade-4233-ad40-719e207154e9"]
+"paucal:contributorLevel" = 0
+"paucal:isDev" = false
+"paucal:isCool" = true
+
+"paucal:patSound" = "paucal:pet.bwop"
+"paucal:patPitchVariance" = 0.1
+
+# SleepyEmber
+["9380b46b-8de4-4a54-b454-88f33059c9ab"]
+"paucal:contributorLevel" = 0
+"paucal:isDev" = false
+"paucal:isCool" = true
+
+"paucal:patSound" = "paucal:pet.neko"
+"paucal:patPitchCenter" = 0.9
+
+
+# == Hexcasting Quote Contest Winners ==
+
+# Ical92
+["d682d4df-e2eb-4b62-b41e-23becc7e01e5"]
+"paucal:contributorLevel" = 0
+"paucal:isDev" = false
+"paucal:isCool" = false
+# cf0a8a
+"hexcasting:colorizer" = [13568650]
+
+# Goldgamesav
+["b34b707a-8429-4dbd-a7a2-a208cf2268b8"]
+"paucal:contributorLevel" = 0
+"paucal:isDev" = false
+"paucal:isCool" = false
+# ff3939 ffd543 fffc43 ffffe3
+"hexcasting:colorizer" = [16726329, 16766275, 16776259, 16777187]
+
+# taswin
+["816bedca-0bfa-4239-8b36-d234463b9c33"]
+"paucal:contributorLevel" = 0
+"paucal:isDev" = false
+"paucal:isCool" = false
+# 0x800300, 0x5f5f5f
+"hexcasting:colorizer" = [8389376, 6250335]
