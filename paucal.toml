@@ -1,6 +1,7 @@
-# === paucal.toml ===
-# For all of my Minecraft mods.
-# This is loaded by my library mod PAUCAL on game startup.
+# This file will be DEPRECATED as of the release of Minecraft 1.20
+# (which hasn't released yet at time of writing)
+# I will not be updating this file after that time.
+# Old versions of PAUCAL (before 0.6.0) will continue to work with the frozen data
 
 # https://gameplay.tools/minecraft/uuid
 # sadly has people's deadnames on it :(
