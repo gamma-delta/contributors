@@ -14,3 +14,12 @@
 "paucal:pat_variance" = 0.1
 
 # colorizer = [0xebad1c, 0xc7c7bd, 0x7c2e94, 0x2e060f]
+
+# Dev (the forge dummy player)
+["380df991-f603-344c-a090-369bad2a924a"]
+"paucal:contributor_level" = 4 # for testing purposes
+"paucal:is_dev" = true
+
+"paucal:pat_sound" = "bwop"
+"paucal:pat_variance" = 0.1
+
