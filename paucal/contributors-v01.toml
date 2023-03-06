@@ -20,6 +20,6 @@
 "paucal:contributor_level" = 4 # for testing purposes
 "paucal:is_dev" = true
 
-"paucal:pat_sound" = "bwop"
+"paucal:pat_sound" = "minecraft:block.note_block.bit"
 "paucal:pat_variance" = 0.1
 
