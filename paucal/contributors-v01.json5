@@ -30,21 +30,21 @@
 "2793cdc6-7710-4e7e-9d81-cf918e067729": { 
   "paucal:contributor_level": 0,
   "paucal:is_dev": true,
-  "hexcasting:colorizer" = [0xb992ff]
+  "hexcasting:colorizer": [0xb992ff]
 }
 
 // Alwinfy
 "64f6e5fc-981c-442c-8d6a-578e8e8cbcd3": {
   "paucal:contributor_level": 0,
   "paucal:is_dev": true,
-  "hexcasting:colorizer" = [0x3327e3]
+  "hexcasting:colorizer": [0x3327e3]
 },
 
 // Hubry
 "b0a26f6b-d951-4b65-b824-b164b9bc4b90": {
   "paucal:contributor_level": 0,
   "paucal:is_dev": true,
-  "hexcasting:colorizer" = [0x10e810, 0xe97dff, 0x33ffff]
+  "hexcasting:colorizer": [0x10e810, 0xe97dff, 0x33ffff]
 },
 
 // Falkory
