@@ -153,7 +153,7 @@
     "minecraft:mob/cat/purr2",
     "minecraft:mob/cat/purr3",
   ],
-  "hexcasting:colorizer": [0xFF39F1, 0x8B00DB, 0xFF38C7, 0x650072],
+  "hexcasting:colorizer": [0xff39f1, 0x8b00db, 0xff38c7, 0x650072],
 },
 
 // AnkhLord
@@ -165,6 +165,7 @@
 // object_Object
 "cd274e7b-ae7f-4aa3-a8da-b3ba5b896c8b": {
   "paucal:contributor_level": 2,
+  "paucal:pat_sound": ["hexbug"],
   "hexcasting:colorizer": [0xffffff, 0x0080ff],
 },
 
