@@ -1,3 +1,4 @@
+{
 // This is loaded by my library mod PAUCAL on game startup and is used for
 // contributor rewards
 
@@ -18,7 +19,7 @@
 "380df991-f603-344c-a090-369bad2a924a": {
   "paucal:contributor_level": 4,
   "paucal:is_dev": true,
-  "paucal:pat_sound": ["bwop", "minecraft:note/bit"]
+  "paucal:pat_sound": ["bwop", "minecraft:note/bit"],
   "paucal:pat_variance": 0.1,
 },
 
@@ -30,21 +31,21 @@
 "2793cdc6-7710-4e7e-9d81-cf918e067729": { 
   "paucal:contributor_level": 0,
   "paucal:is_dev": true,
-  "hexcasting:colorizer": [0xb992ff]
-}
+  "hexcasting:colorizer": [0xb992ff],
+},
 
 // Alwinfy
 "64f6e5fc-981c-442c-8d6a-578e8e8cbcd3": {
   "paucal:contributor_level": 0,
   "paucal:is_dev": true,
-  "hexcasting:colorizer": [0x3327e3]
+  "hexcasting:colorizer": [0x3327e3],
 },
 
 // Hubry
 "b0a26f6b-d951-4b65-b824-b164b9bc4b90": {
   "paucal:contributor_level": 0,
   "paucal:is_dev": true,
-  "hexcasting:colorizer": [0x10e810, 0xe97dff, 0x33ffff]
+  "hexcasting:colorizer": [0x10e810, 0xe97dff, 0x33ffff],
 },
 
 // Falkory
@@ -70,7 +71,7 @@
 "83d0744b-6769-4cb9-9b27-d4dea603dd28": {
   "paucal:contributor_level": 4,
   "paucal:pat_sound": "splat",
-  "hexcasting:colorizer": [0x4c345c]
+  "hexcasting:colorizer": [0x4c345c],
 },
 
 // SpottyTheTurtle
@@ -78,7 +79,7 @@
   "paucal:contributor_level": 4,
   // technically they shouldn't have a colorizer
   // but i'l give it to them for running the server
-  "hexcasting:colorizer": [0xfd8f38]
+  "hexcasting:colorizer": [0xfd8f38],
 },
 
 // techtime4 / Ceql
@@ -90,7 +91,7 @@
 // WildOats (stevebutnottoomanypeoplehaveit)
 "968e572c-a6c1-4963-8399-0c64abd3820e": {
   "paucal:contributor_level": 2,
-  "hexcasting:colorizer": [0x5f118a, 0x411db8]
+  "hexcasting:colorizer": [0x5f118a, 0x411db8],
 },
 
 // 4984
@@ -109,7 +110,7 @@
 // Kurotsune
 "661ca73d-cfe5-488c-a3e9-b9714c06660f": {
   "paucal:contributor_level": 2,
-  "hexcasting:colorizer": [0xaa0000, 0x0, 0x0050ff, 0x0]
+  "hexcasting:colorizer": [0xaa0000, 0x0, 0x0050ff, 0x0],
 },
 
 // Dxier
@@ -141,7 +142,7 @@
     "minecraft:mob/cat/purr1",
     "minecraft:mob/cat/purr2",
     "minecraft:mob/cat/purr3",
-  ]
+  ],
 },
 
 // foulfortunfeline
@@ -151,8 +152,8 @@
     "minecraft:mob/cat/purr1",
     "minecraft:mob/cat/purr2",
     "minecraft:mob/cat/purr3",
-  ]
-  "hexcasting:colorizer": [0xFF39F1, 0x8B00DB, 0xFF38C7, 0x650072]
+  ],
+  "hexcasting:colorizer": [0xFF39F1, 0x8B00DB, 0xFF38C7, 0x650072],
 },
 
 // AnkhLord
@@ -164,13 +165,13 @@
 // object_Object
 "cd274e7b-ae7f-4aa3-a8da-b3ba5b896c8b": {
   "paucal:contributor_level": 2,
-  "hexcasting:colorizer": [0xffffff, 0x0080ff]
+  "hexcasting:colorizer": [0xffffff, 0x0080ff],
 },
 
 // gchpacho
 "a1c40d68-8734-4e16-9716-69c63bea6f15": {
   "paucal:contributor_level": 2,
-  "hexcasting:colorizer": [0x314267]
+  "hexcasting:colorizer": [0x314267],
 },
 
 // Kinomoru
@@ -182,7 +183,7 @@
 // PhantomEnderium
 "5ed4a488-71ee-471b-bb19-68e738ddffc8": {
   "paucal:contributor_level": 2,
-  "hexcasting:colorizer": [0x850808, 0x096fb3, 0x57047d]
+  "hexcasting:colorizer": [0x850808, 0x096fb3, 0x57047d],
 },
 
 // Talia0
@@ -199,7 +200,7 @@
 // ValeriousMystery
 "84379358-c7a9-4e76-af7e-1b969fee9aef": {
   "paucal:contributor_level": 3,
-  "hexcasting:colorizer": [0x06ffc9, 0x3da35a, 0x3b7e4f, 0x1d572e, 0xc0ffee]
+  "hexcasting:colorizer": [0x06ffc9, 0x3da35a, 0x3b7e4f, 0x1d572e, 0xc0ffee],
 },
 
 // Rolahr
@@ -214,14 +215,8 @@
   "hexcasting:colorizer": [0xedd0c8, 0xf5c5d3, 0xfdbadd, 0xd5b4e9, 0xadadf5],
   "paucal:pat_sound": "discord",
   "paucal:pat_variance": 0.0,
-}
+},
 // And their alts: IsNotFake,
-{
-  "paucal:contributor_level": 5,
-  "hexcasting:colorizer": [0xedd0c8, 0xf5c5d3, 0xfdbadd, 0xd5b4e9, 0xadadf5],
-  "paucal:pat_sound": "discord",
-  "paucal:pat_variance": 0.0,
-}
 "4c4d9c90-873e-4ce8-861e-36b3ce4f5cea": {
   "paucal:contributor_level": 5,
   "hexcasting:colorizer": [0xedd0c8, 0xf5c5d3, 0xfdbadd, 0xd5b4e9, 0xadadf5],
@@ -252,19 +247,19 @@
 "eba830d3-0f55-4bf6-a183-04f70d82dd14": {
   "paucal:contributor_level": 2,
   "hexcasting:colorizer": [0xccaaff],
-}
+},
 
 // yoyotam3
 "1b89f395-b7c5-4bd4-87c1-055b7d9e5761": {
   "paucal:contributor_level": 2,
   "hexcasting:colorizer": [0x1380B2, 0x34BFFF],
-}
+},
 
 // ArcanePhysics
 "22fd2deb-a4c3-4667-b9d6-4acd44b2345c": {
   "paucal:contributor_level": 2,
   "hexcasting:colorizer": [0x1380B2, 0x34BFFF],
-}
+},
 
 // =====
 // COOL PEOPLE
@@ -278,7 +273,7 @@
     "minecraft:mob/cat/purr2",
     "minecraft:mob/cat/purr3",
   ],
-  "hexcasting:colorizer": [25, 13948159, 20]
+  "hexcasting:colorizer": [25, 13948159, 20],
 },
 
 // nbyzantine
@@ -312,7 +307,7 @@
 "458391f5-6303-4649-b416-e4c0d18f837a": {
   "paucal:contributor_level": 0,
   "paucal:pat_sound": "paucal:pet.wire",
-  "hexcasting:colorizer": [0x37826d, 0x388348, 0x23825c, 0x388349]
+  "hexcasting:colorizer": [0x37826d, 0x388348, 0x23825c, 0x388349],
 },
 
 // SammySemicolon
@@ -322,13 +317,13 @@
     "minecraft:mob/cat/purr1",
     "minecraft:mob/cat/purr2",
     "minecraft:mob/cat/purr3",
-  ]
+  ],
 },
 
 // najlitarvan (logo maker)
 "799e6817-c2e2-4bf5-816a-6415c4d6b8a1": {
   "paucal:contributor_level": 0,
-  "hexcasting:colorizer": [0x2e2d47, 0xe87c0d]
+  "hexcasting:colorizer": [0x2e2d47, 0xe87c0d],
 },
 
 // abean077 (quiner)
@@ -338,7 +333,7 @@
     0x078D70, 0x26CEAA, 0x99E8C2, 0xFFFFFF,
     0x7BADE3, 0x5049CB, 0x3E1A78, 0x800080, 
     0xFFFFFF, 0xA3A3A3, 0x000000
-  ]
+  ],
 },
 
 // CesiumHorizon (other quiner)
@@ -361,7 +356,7 @@
     "minecraft:mob/cat/purr1",
     "minecraft:mob/cat/purr2",
     "minecraft:mob/cat/purr3",
-  ]
+  ],
   "paucal:pat_pitch": 0.9
 },
 
@@ -372,17 +367,19 @@
 // Ical92
 "d682d4df-e2eb-4b62-b41e-23becc7e01e5": {
   "paucal:contributor_level": 0,
-  "hexcasting:colorizer": [0xcf0a8a]
+  "hexcasting:colorizer": [0xcf0a8a],
 },
 
 // Goldgamesav
 "b34b707a-8429-4dbd-a7a2-a208cf2268b8": {
     "paucal:contributor_level": 0,
-    "hexcasting:colorizer": [0xff3939, 0xffd543, 0xfffc43, 0xffffe3]
+    "hexcasting:colorizer": [0xff3939, 0xffd543, 0xfffc43, 0xffffe3],
   },
 
 // Taswin
 "816bedca-0bfa-4239-8b36-d234463b9c33": {
   "paucal:contributor_level": 0,
-  "hexcasting:colorizer": [0x800300, 0x5f5f5f]
+  "hexcasting:colorizer": [0x800300, 0x5f5f5f],
+},
+
 }
