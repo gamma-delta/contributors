@@ -1,5 +1,4 @@
-# This file will be DEPRECATED as of the release of Minecraft 1.20
-# (which hasn't released yet at time of writing)
+# This file will be DEPRECATED as of the release of Paucal 0.6.0
 # I will not be updating this file after that time.
 # Old versions of PAUCAL (before 0.6.0) will continue to work with the frozen data
 
@@ -97,7 +96,7 @@
 "paucal:isDev" = false
 "paucal:isCool" = false
 
-# technically they shouldn't have a colorizer but i'll give it to them for running the server
+# technically they shouldn't have a colorizer but i'l give it to them for running the server
 # fd8fe8
 "hexcasting:colorizer" = [16617448]
 
