@@ -9,7 +9,7 @@
   "paucal:contributor_level": 7604,
   "paucal:is_dev": true,
 
-  "paucal:pat_sound": "minecraft:note/bit",
+  "paucal:pat_sound": "bwop",
   "paucal:pat_variance": 0.1,
   "hexcasting:colorizer": [0xebad1c, 0xc7c7bd, 0x7c2e94, 0x2e060f],
 },
