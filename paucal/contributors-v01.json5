@@ -62,6 +62,33 @@
   "hexcasting:colorizer": [0x69eb96, 0xeb69d7],
 },
 
+// vgskye
+"866defaa-cf7a-47c8-9586-2707c84f240c": {
+  "paucal:contributor_level": 0,
+  "paucal:is_dev": true,
+  "hexcasting:colorizer": [0x55b9a3, 0x24917c],
+  "paucal:pat_sound": [
+    "minecraft:mob/fox/idle1",
+    "minecraft:mob/fox/idle2",
+    "minecraft:mob/fox/idle3",
+    "minecraft:mob/fox/idle4",
+    "minecraft:mob/fox/idle5",
+    "minecraft:mob/fox/idle6",
+  ],
+},
+
+// Navarchus_ (ratman)
+"67443c2e-5c7c-40b9-85bc-8dc5190b44f8": {
+  "paucal:contributor_level": 0,
+  "paucal:is_dev": true,
+  "paucal:pat_sound": [
+    "minecraft:mob/bat/idle1",
+    "minecraft:mob/bat/idle2",
+    "minecraft:mob/bat/idle3",
+    "minecraft:mob/bat/idle4",
+  ],
+}
+
 // =====
 // PATRONS
 // ====
