@@ -55,6 +55,13 @@
   "hexcasting:colorizer": [0xa11420, 0x291d2b],
 },
 
+// samsthenerd
+"6f07899c-2b26-4221-8033-1f53f7a0e111": {
+  "paucal:contributor_level": 0,
+  "paucal:is_dev": true,
+  "hexcasting:colorizer": [0x69eb96, 0xeb69d7],
+},
+
 // =====
 // PATRONS
 // ====
@@ -259,6 +266,131 @@
 "22fd2deb-a4c3-4667-b9d6-4acd44b2345c": {
   "paucal:contributor_level": 2,
   "hexcasting:colorizer": [0x1380B2, 0x34BFFF],
+},
+
+// StygianNymph
+"2b45fdbd-b603-4017-8387-5a55a6d32725": {
+  "paucal:contributor_level": 1,
+},
+
+// ani0n
+"c101f531-a4cb-40fc-bc20-6a64121f8e3b": {
+  "paucal:contributor_level": 1,
+},
+
+// Ozymandeas
+"ed5b59ec-d4a4-44d2-9b72-6ef0281c4660": {
+  "paucal:contributor_level": 1,
+  "hexcasting:colorizer": [0x846dcf, 0x3b6665, 0x181236],
+  "paucal:pat_sound": [
+    "minecraft:mob/cat/purreow1",
+    "minecraft:mob/cat/purreow2",
+  ]
+},
+
+// KarpDevStudio
+"8dd66f26-933e-41b4-a7dd-1cd9146ca602": {
+  "paucal:contributor_level": 1,
+  
+},
+
+// _DoubleF_
+"4e0c1045-678c-4f8a-8221-1f3452d61da3": {
+  "paucal:contributor_level": 1,
+},
+
+// FractalSystem
+"b8d28f3e-4a9c-4d1c-a368-edc669d62a05": {
+  "paucal:contributor_level": 2,
+  "hexcasting:colorizer": [0xFF00FF, 0x00FF00],
+},
+
+// ThatGuyBlah
+"57dc7e4d-541d-440d-b79e-89e6df4024b1": {
+  "paucal:contributor_level": 3,
+  "hexcasting:colorizer": [0xFFD700, 0, 0x654321, 0xC9C1C1],
+  // TODO: send me your funniest noise
+},
+
+// Aurellia79
+"a31d8405-b45d-40de-9c89-6b8489cce509": {
+  "paucal:contributor_level": 3,
+  "hexcasting:colorizer": [0xFFDD1C],
+  "paucal:pat_sound": [
+    "minecraft:mob/cat/purr1",
+    "minecraft:mob/cat/purr2",
+    "minecraft:mob/cat/purr3",
+  ],
+},
+
+// Player404
+"6627ed23-2aa8-471f-aaf4-599daf4e385e": {
+  "paucal:contributor_level": 1,
+  "hexcasting:colorizer": [0x62000B],
+},
+
+// DeadlyDiamond98
+"bd6a70bc-c3cd-47e0-b2f9-a1124b46ca25": {
+  "paucal:contributor_level": 1,
+},
+
+// Hauntwick
+"90aa9c9d-bec7-449a-bac5-ff030d0a39e7": {
+  "paucal:contributor_level": 1,
+},
+
+// Numilani
+"b5d20a3f-3616-4db9-97c0-051eeec6e9f1": {
+  "paucal:contributor_level": 1,
+},
+
+// RealCy
+"1b5a07b5-08e7-4213-b969-03e7ccd05b58": {
+  "paucal:contributor_level": 2,
+  "hexcasting:colorizer": [0x59D7FF, 0xFF89FF, 0xFFC615],
+},
+
+// SobalVoodle
+"1b5a07b5-08e7-4213-b969-03e7ccd05b58": {
+  "paucal:contributor_level": 3,
+  "paucal:pat_sound": [
+    "minecraft:block/bell/bell_use01",
+    "minecraft:block/bell/bell_use02",
+  ],
+},
+
+// Sage431
+"e6dc8009-d44f-4a7c-ad91-c0055f681dc4": {
+  "paucal:contributor_level": 1,
+},
+
+// Pejoume
+"675659e2-6cab-4496-b00e-de3eecb942f1": {
+  "paucal:contributor_level": 2,
+  "hexcasting:colorizer": [0x90EE90, 0x00FFFF],
+},
+
+// hexqua
+"59ec3ad7-c61b-47d0-9b47-69d2da2267d9": {
+  "paucal:contributor_level": 2,
+  "hexcasting:colorizer": [0x5C88D0],
+},
+
+// CaptainStubbs
+// in the google form they put "Captain Stubbs";
+// i'm assuming this is them
+"b408400c-be5d-4415-a927-a1fea2e7a9b2": {
+  "paucal:contributor_level": 1,
+},
+
+// Felphyre
+"aa4fe03c-8842-4514-a0bb-5f1f6333c117": {
+  "paucal:contributor_level": 1,
+},
+
+// KyanBirb
+"91b14218-5ef9-4b81-887b-cf40ce3e2ef5": {
+  "paucal:contributor_level": 1,
 },
 
 // =====
