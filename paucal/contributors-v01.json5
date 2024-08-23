@@ -309,7 +309,7 @@
 "57dc7e4d-541d-440d-b79e-89e6df4024b1": {
   "paucal:contributor_level": 3,
   "hexcasting:colorizer": [0xFFD700, 0, 0x654321, 0xC9C1C1],
-  // TODO: send me your funniest noise
+  "paucal:pat_sound": "thatguyblah-wah",
 },
 
 // Aurellia79
