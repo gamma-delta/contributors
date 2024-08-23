@@ -81,6 +81,7 @@
 "67443c2e-5c7c-40b9-85bc-8dc5190b44f8": {
   "paucal:contributor_level": 0,
   "paucal:is_dev": true,
+  "hexcasting:colorizer": [0xbd4cf8],
   "paucal:pat_sound": [
     "minecraft:mob/bat/idle1",
     "minecraft:mob/bat/idle2",
