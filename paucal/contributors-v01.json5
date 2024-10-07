@@ -416,6 +416,30 @@
   "paucal:contributor_level": 1,
 },
 
+// Onyx_Tau
+"683d9638-730a-4406-b6f2-c86e8628c4da": {
+  "paucal:contributor_level": 2,
+  "hexcasting:colorizer": [0x613000, 0x00babd],
+},
+
+// Exlor64
+"d45f7a78-513c-43ed-b2f7-6447a92ddaf2": {
+  "paucal:contributor_level": 2,
+  "hexcasting:colorizer": [0x800080],
+},
+
+// _Tobix_
+"ac037977-10d7-418e-ac6d-237a4007281e": {
+  "paucal:contributor_level": 1,
+},
+
+// ArcticPrince
+"959d80c8-a679-4700-9a7e-a22aaa11d84a": {
+  "paucal:contributor_level:3",
+  "hexcasting:colorizer": [0x00d2ff, 0xdcf2ff, bbe6ff],
+  "paucal:pat_sound": ["minecraft:ambient/nether/soulsand_valley/sand1"],
+},
+
 // =====
 // COOL PEOPLE
 // =====
