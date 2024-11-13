@@ -435,7 +435,7 @@
 
 // ArcticPrince
 "959d80c8-a679-4700-9a7e-a22aaa11d84a": {
-  "paucal:contributor_level:3",
+  "paucal:contributor_level": 3,
   "hexcasting:colorizer": [0x00d2ff, 0xdcf2ff, 0xbbe6ff],
   "paucal:pat_sound": ["minecraft:ambient/nether/soulsand_valley/sand1"],
 },
