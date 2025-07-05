@@ -440,6 +440,53 @@
   "paucal:pat_sound": ["minecraft:ambient/nether/soulsand_valley/sand1"],
 },
 
+// Odranrreb
+"da1c0fc4-4e5a-4e70-899d-cd9bb2ef88d8": {
+  "paucal:contributor_level": 2,
+},
+
+// Rappid_Rabbit
+"e51134c1-8b30-49fd-bca9-5ee3c0c056f0": {
+  "paucal:contributor_level": 1,
+},
+
+// U856
+"1f809a9f-45ae-43c9-8536-e388f2d537f4": {
+  "paucal:contributor_level": 1,
+},
+
+// LunarNightsDream
+"f1e7de57-910e-467c-b811-e9e35ba1f330": {
+  "paucal:contributor_level": 2,
+  "hexcasting:colorizer": [0xcddbfe, 0x0e2748],
+},
+
+// urix123
+"6a419733-b550-46d3-a21c-46656b801849": {
+  "paucal:contributor_level": 2,
+  "hexcasting:colorizer": [0xd094e0],
+},
+
+// Waveformal
+"9f39ae7d-7b32-4586-8a7e-5e4d15b7b4cd": {
+  "paucal:contributor_level": 2,
+  "hexcasting:colorizer": [0x228B22],
+},
+
+// Deloptin
+"12015fe4-dc20-409a-950d-c0a151f9ca4a": {
+  "paucal:contributor_level": 2,
+  // i don't think it's technically allowed to get a headpat with a lv2 pledge
+  // but whatever
+  "paucal:pat_sound": [
+    "minecraft:mob/allay/item_taken1",
+    "minecraft:mob/allay/item_taken2",
+    "minecraft:mob/allay/item_taken3",
+    "minecraft:mob/allay/item_taken4",
+  ],
+  "hexcasting:colorizer": [0xff6600, 0x9944ff, 0xff88ff],
+},
+
 // =====
 // COOL PEOPLE
 // =====
