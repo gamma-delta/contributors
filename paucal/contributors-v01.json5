@@ -487,6 +487,13 @@
   "hexcasting:colorizer": [0xff6600, 0x9944ff, 0xff88ff],
 },
 
+// StormcallerWolf
+"92d46e41-a926-4e95-b5fd-3fdc76fd4634": {
+  "paucal:contributor_level": 3,
+  "hexcasting:colorizer": [0x953b73, 0x7d126c, 0x420451],
+  "paucal:pat_sound": "minecraft:block/amethyst_block/hit",
+},
+
 // =====
 // COOL PEOPLE
 // =====
