@@ -1,3 +1,4 @@
+{
 // This is loaded by my library mod PAUCAL on game startup and is used for
 // contributor rewards
 
@@ -88,7 +89,7 @@
     "minecraft:mob/bat/idle3",
     "minecraft:mob/bat/idle4",
   ],
-}
+},
 
 // =====
 // PATRONS
@@ -614,3 +615,4 @@
   "paucal:contributor_level": 0,
   "hexcasting:colorizer": [0x800300, 0x5f5f5f],
 },
+}
