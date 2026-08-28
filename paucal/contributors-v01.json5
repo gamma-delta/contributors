@@ -28,7 +28,7 @@
 // =====
 
 // AmyMialee
-"2793cdc6-7710-4e7e-9d81-cf918e067729": { 
+"2793cdc6-7710-4e7e-9d81-cf918e067729": {
   "paucal:contributor_level": 0,
   "paucal:is_dev": true,
   "hexcasting:colorizer": [0xb992ff],
@@ -320,7 +320,7 @@
 // KarpDevStudio
 "8dd66f26-933e-41b4-a7dd-1cd9146ca602": {
   "paucal:contributor_level": 1,
-  
+
 },
 
 // _DoubleF_
@@ -499,11 +499,7 @@
 "80d6d653-3e51-4d32-b7dc-e893ac029a07": {
   "paucal:contributor_level": 3,
   "hexcasting:colorizer": [0x7fff7f, 0x00ffff, 0x007f7f, 0x0000ff, 0x000040],
-  "paucal:pat_sound": [
-    "minecraft:mob/wolf/bark1",
-    "minecraft:mob/wolf/bark2",
-    "minecraft:mob/wolf/bark3"
-  ],
+  "paucal:pat_sound": "teal-awa",
 },
 
 // =====
@@ -576,7 +572,7 @@
   "paucal:contributor_level": 0,
   "hexcasting:colorizer": [
     0x078d70, 0x26ceaa, 0x99e8c2, 0xffffff,
-    0x7bade3, 0x5049cb, 0x3e1a78, 0x800080, 
+    0x7bade3, 0x5049cb, 0x3e1a78, 0x800080,
     0xffffff, 0xa3a3a3, 0x0
   ],
 },
