@@ -502,6 +502,18 @@
   "paucal:pat_sound": "teal-awa",
 },
 
+// Viaduckt
+"00a3456c-81e0-4792-9545-bf906eac8f9e": {
+  "paucal:contributor_level": 4,
+  "hexcasting:colorizer": [0xffffb1, 0x52f1ff, 0x9713fc],
+  "paucal:pat_sound": [
+    "minecraft:mob/warden/sonic_boom1",
+    "minecraft:mob/warden/sonic_boom2",
+    "minecraft:mob/warden/sonic_boom3",
+    "minecraft:mob/warden/sonic_boom4",
+  ],
+},
+
 // =====
 // COOL PEOPLE
 // =====
